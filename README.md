@@ -5,4 +5,6 @@
 > **Repeater codes are the same aside from the MAC addresses.** <br>
 > Be careful: the **.ino** files contain several debug functions. If they are deemed unnecessary, remove them before use. <br>
 > <br>
+> Code comments are still there if needed. <br>
+> <br>
 > **WHOLE PROJECT EXPLANATION AT:** URL!!
