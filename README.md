@@ -1,8 +1,8 @@
->!Download the zip as a whole. DO NOT SEPERATE LABVIEW FILES! 
->!OPEN .IVPROJ TO SEE.
->!YOU NEED LABVIEW 2026 TO OPEN IF YOU DONT THEN SEE THE SCREENSHOTS INSTEAD.
->!Ardunio code is for ardunio ide and for esps!
->!REPEATER CODES ARE SAME ASIDE FROM MAC ADRESSES.
->!Careful the .io codes contain several debug functions if deemeded unnecessary delete them before use. 
-
->!WHOLE PROJECT EXPLANATION AT : URL!!
+> Download the ZIP as a whole. **DO NOT SEPARATE LABVIEW FILES!** <br>
+> Open the **.lvproj** file to view the LabVIEW project. <br>
+> You need **LabVIEW 2026** to open it. If you do not have LabVIEW 2026, see the screenshots instead. <br>
+> Arduino code is for **Arduino IDE** and the ESP32s. <br>
+> **Repeater codes are the same aside from the MAC addresses.** <br>
+> Be careful: the **.ino** files contain several debug functions. If they are deemed unnecessary, remove them before use. <br>
+> <br>
+> **WHOLE PROJECT EXPLANATION AT:** URL!!
