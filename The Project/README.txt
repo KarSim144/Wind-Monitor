@@ -1,1 +1,1 @@
-You should open the Wind_Monitor.lvproj in LabView to see the Project. Open Application/Real Wind Monitor.vi to see the final product (main panel) that shows final data from both sensors. Use Saved Data folders as directory for data to go in.
+Download the zip as a whole. DO NOT SEPERATE LABVIEW FILES! OPEN .IVPROJ TO SEE. YOU NEED LABVIEW 2026 TO OPEN IF YOU DONT SEE SCREENSHOTS INSTEAD. WHOLE PROJECT EXPLANATION AT : URL!!
