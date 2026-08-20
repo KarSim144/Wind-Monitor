@@ -7,6 +7,5 @@
 > <br>
 > Code comments are still there if needed. <br>
 > <br>
-> **WHOLE PROJECT EXPLANATION AT:** URL!!<br>
-> **PROJECT IN LIVE TEST AT:** [URL!!](https://berkay144.com/wind-monitor/)
-> <br>
+> **WHOLE PROJECT EXPLANATION AT:** [URL!!<br>](https://berkay144.com/wind-monitor/)
+
